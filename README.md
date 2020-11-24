@@ -4,5 +4,4 @@
 | Releases | Description                       |
 |----------|-----------------------------------|
 | v1.0     | Fin du développement du frontend. |
-|          |                                   |
-|          |                                   |
+
