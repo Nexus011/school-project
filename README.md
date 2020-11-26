@@ -6,4 +6,6 @@
 | v1.0     | Fin du développement du frontend.                       | [cliquez ici](https://github.com/Nexus011/school-project/releases/tag/v1.0)       |
 | v1.1     | Ajout d'un bouton collapse au header (fully responsive) | [cliquez ici](https://github.com/Nexus011/school-project/releases/tag/v1.1)       |
 | v1.2     | Ajout backgrounds objectifs flexbox + progressbar       | [cliquez ici](https://github.com/Nexus011/school-project/releases/tag/v1.2)       |
-| v1.2.1   | Modifications apportées à la flexbox de bienvenue       | [cliquez ici](https://github.com/Nexus011/school-project/releases/tah/v1.2.1)     | 
+| v1.2.1   | Modifications apportées à la flexbox de bienvenue       | [cliquez ici](https://github.com/Nexus011/school-project/releases/tag/v1.2.1)     | 
+| v1.3     | Modifications majeures à la globalité des fichiers pour | [cliquez ici](https://github.com/Nexus011/school-project/releases/tag/v1.3)       |
+|          | dynamiser les codes.                                    |                                                                                   |
