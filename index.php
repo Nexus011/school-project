@@ -34,7 +34,7 @@
 			</div>
 		</ul>
 	</div>
-	<form action="reddirect.html" method="get" class="form">
+	<form action="form.php" name="form" method="post" class="form">
 		<fieldset>
 			<h2 class="px-md-5" style="margin-top: 20px; margin-bottom: 20px;">Nous contacter</h2>
 			<div class="form-group px-md-5">
@@ -53,7 +53,7 @@
 				<label for="messageinput">Votre demande</label>
 				<textarea name="message" id="messageinput" class="form-control" rows="5" placeholder="Entrez votre message..." required></textarea>
 			</div>
-			<div class="px-md-5"><input type="submit" value="Envoyer !" class="btn btn-primary"></div>
+			<div class="px-md-5"><input type="submit" name="submit" value="Envoyer !" class="btn btn-primary"></div>
 		</fieldset>
 	</form>
 	<?php require('footer.php') ?>
